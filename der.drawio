@@ -453,6 +453,20 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="641" style="edgeStyle=none;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="70" target="639">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1000" y="223"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="642" style="edgeStyle=none;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="70" target="640">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1000" y="178"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="70" value="comision" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=default;gradientColor=none;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="940" y="527.5" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -1561,6 +1575,12 @@
                 </mxCell>
                 <mxCell id="637" value="id_anio_academico" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=default;gradientColor=none;" vertex="1" parent="1">
                     <mxGeometry x="1050" y="262.5" width="190" height="57.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="639" value="zoom_id" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="200" width="110" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="640" value="zoom_pass" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1045" y="155" width="110" height="45" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
